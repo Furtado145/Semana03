@@ -9,7 +9,7 @@ public class ElevarAoQuadrado{
       
       elevado =(int) Math.pow(base, 2);
       
-      resp = "" + base + " elevado ao quadrado é:\n " + elevado;
+      resp = "" + base + " elevado ao quadrado Ã©:\n " + elevado;
       
       JOptionPane.showMessageDialog(null, resp);
    }
